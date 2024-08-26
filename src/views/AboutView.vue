@@ -129,7 +129,7 @@ export default {
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; Hi everyone! My name is Rio Zavela. I'm a software engineering from Lubuklinggau , South Sumatra . I
-            have 3 year of experience in back-end web development.
+            have 3 years of experience in back-end web development.
             I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
             has
             aesthetic value
